@@ -1,0 +1,36 @@
+== Copyright and License ==
+Analytical Lite WordPress Theme, Copyright (C) 2013 SketchThemes
+Analytical Lite WordPress theme is licensed under the GPL.
+
+==Credits ===
+Theme Anlytical lite uses:* The script jquery.easing.1.3.js v1.3.0 is licensed under the BSD License.
+* The script hcsticky.js v1.1.9 is licensed under the MIT License www.opensource.org/licenses/mit-license.php.
+* The script jquery.prettyPhoto.js v3.1.4 is licensed under the "GPLv2" or "Creative Commons 2.5 license".
+* Icon Set:	Elusive-Iconfont is licensed under SIL Open-Font License.
+* Google Webfonts: 'Merriweather Sans' is licensed under SIL Open Font License,1.1.(http://www.google.com/fonts/specimen/Merriweather+Sans)
+* The images is a free public picture from pixabay and distributed under the terms of the Creative Commons CC0 License.	
+
+Image link : http://pixabay.com/en/splashing-splash-aqua-water-rain-165192/
+Image name :  splashing splash aqua water rain pouring photo
+----------------------------------------------------
+Image link : http://pixabay.com/en/orange-falling-water-amateurpic-165040/
+Image name :  orange falling water amateurpic splash
+----------------------------------------------------
+Image link : http://pixabay.com/en/orange-water-splash-amateurpic-164985/
+Image name : orange water splash amateurpic
+
+Image links:
+
+http://www.iconsdb.com/black-icons/dribbble-icon.html
+http://www.iconsdb.com/black-icons/facebook-icon.html
+http://www.iconsdb.com/black-icons/pinterest-icon.html
+http://www.iconsdb.com/black-icons/twitter-icon.html
+http://www.iconsdb.com/black-icons/youtube-icon.html
+http://www.iconsdb.com/black-icons/wordpress-5-icon.html
+http://www.iconsdb.com/black-icons/google-plus-icon.html
+http://www.iconsdb.com/black-icons/star-icon.html
+http://www.iconsdb.com/white-icons/arrow-30-icon.html
+http://www.iconsdb.com/black-icons/search-3-icon.html
+
+all Image link is a free public picture from pixabay and distributed under the terms of the Creative Commons CC0 Universal Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+All other images were created by sketchthemes as per requirement.

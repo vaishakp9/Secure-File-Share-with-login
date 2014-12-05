@@ -1,0 +1,119 @@
+/*========= Analytical =========*/
+
+== Copyright and License ==
+Analytical Lite WordPress Theme, Copyright (C) 2013 SketchThemes
+Analytical Lite WordPress theme is licensed under the GPL.
+
+
+/*========= Installation =========*/
+
+1. Upload the `analytical-lite` folder to the `/wp-content/themes/` directory
+Activation and Use
+1. Activate the Theme through the 'Themes' menu in WordPress
+2. See Appearance -> Analytical Lite Options to change theme options
+3. See Settings -> Reading -> Choose a Page for the Front page and Page for Posts page from drop-down.
+   "When you choose a Page for the Front page from drop-down, the contents of Selected page aren't displayed anywhere on the static front page."
+
+   "default your latest posts are show on front page if you are not select any page for front page."
+  
+
+
+/*========= Theme Features and Documentation =========*/
+
+== WP Version ==
+
+It's requires at least version 3.4 to work properly.Please make sure your WP version is at least 3.4.
+
+
+== Theme Options ==
+
+*General Settings:*
+
+1)Layout Structure : if you want to show header in top/left select option.
+2)Base Color : Select color for your site.
+3)Upload a logo and a favicon.
+4)Change Persistent header logo image : Upload logo for Persistent(Fixed) header.
+5)Sidebar Contact Us Content : Put your Contact us sidebar content here.
+6)Show custom pagination on blog page(yes/no).
+7)Change favicon :  Upload your favicon here.
+
+
+*Navigation Settings:*
+
+1)Navigation Even-item BG-Color : Select background-color for navigation even items.
+2)Navigation Odd-item BG-Color : Select background-color for navigation odd items.
+3)Check to Enable persistent(Fixed) header navigation menu. (works with only "Top Header" Layout Structure.)
+ 
+
+*Social links :*
+ add your facebook,twitter,google plus, youtube link here.
+
+
+*Footer :*
+
+1) Enter Your Copyright Text(You can use HTML for links.)
+
+*Footer Sidebar Names :*
+
+ You can change your First,Second,Third Sidebar Title from this option.
+
+
+*Front Page Options :*
+
+1) Go To Settings -> Reading Settings and Set Your Front and Post page.
+2) Go To Analytical lite Options -> Front Page Options and Set Your Front Page Options.
+
+
+*Front Page Gallery Captions : *
+ 
+ add your Slider Image Title and Image Content for frontpage gallery.
+
+*Front Page Video Caption :*
+
+ add your Video Title and Video Description here.
+
+*Gallery Page Image Captions :*
+
+  add your gallery Image Title and Image Content for gallerypage.
+
+== Analytical Lite Gallery ==
+
+*DISPLAY SETTINGS :*
+
+1)Select On if you want to show Sketch BG-Gallery.
+
+*APPEARANCE SETTINGS :*
+
+
+1)Set Slide Duration,Transition Speed,Slide Navigation,Show Play/Pause Key,Show Thumbnails,Thumbnails Display,Random Images.
+
+
+*OVERLAY SETTINGS :*
+
+1)Display Overlay: check if you wnat to show overly effect.
+2)Set Overlay Effect: select your overlay effect.
+
+
+*BACKGROUND COLOR SETTINGS :*
+
+1)Enable BG-Color: if you want to change background color eneble bg color option.
+2)Background Color: select your background color.
+
+
+*BACKGROUND VIDEO SETTINGS :*
+
+1)Enable BG-Video: Check it, if you want to use "BG Video instead of gallery images".
+2)URL (.mp4 / YouTube/ Vimeo): Enter your youtube/vimeo/mp4 video url.
+
+
+*BACKGROUNDS SETTINGS :*
+
+1)Upload your background images.
+
+/*========= Page Template =========*/
+
+1) Gallery Template
+
+/*========= Translation =========*/
+
+The Analytical Lite is ready for translation. Translation files are in /languages.

@@ -1,0 +1,50 @@
+﻿/*-- Analytical theme layout style
+--------------------------------------------*/
+/*-- Left Layout-Structure 
+------------------------------------*/
+body.ls_left .skebg_nav  .skebg_thumbnails{margin-left:237px;}
+body.ls_left #head_block{box-shadow: 0 0 5px 1px #000000;left: 0;bottom: 0; position: fixed;top: 0;width:280px;background: url('../images/header-bg.png');border-style: solid; border-width: 0 1px 0 0;}
+body.ls_left #header-area{left: 0; padding: 12px 0 12px 12px; position: relative; top: 0; width: 268px;float:left;}
+body.ls_left #skenav{margin-top:30px;}
+body.ls_left #skenav ul ul li{padding: 10px 0;}
+body.ls_left #skenav a{padding: 0 0 0 20px;}
+body.ls_left #skenav ul ul a {padding:0 11px;}
+body.ls_left #header-area .social_icons{padding-bottom: 35px;}
+body.ls_left #top-head{padding-top: 5px;}
+body.ls_left #skenav .menu-header,body.ls_left div.menu{ padding: 9px 0; }
+body.ls_left .menu_wrapper{display:inline-block;}
+body.ls_left #skenav .ske-menu .menu li,body.ls_left div.menu li { background: url("../images/nav-bdr.png") repeat-x scroll left top;margin: 0 0 0 10px; } 	
+body.ls_left #skenav .ske-menu .menu li:first-child, body.ls_left div.menu li:first-child{background:none;}
+body.ls_left #bottom-head{margin:0 auto;padding-top:60px;width: 252px;padding-bottom:10px;}
+body.ls_left #bottom-head .side_contus{width:190px;text-align:center;margin:0 auto;}
+body.ls_left #bottom-head .side_contus .sc_title{background: url("../images/contact-bdr.png") no-repeat scroll center bottom transparent; font-size: 18px; line-height: 20px; margin-bottom: 15px; padding-bottom: 10px; text-transform: uppercase;} 	
+body.ls_left #bottom-head .side_contus .sc_text {font-size:12px;line-height: 18px;}
+body.ls_left #bottom-head .copyright_box{font-size:10px;background: url("../images/contact-bdr.png") no-repeat scroll center top transparent;text-align:center;padding-top:8px;margin-top:12px;}
+body.ls_left #container{float: left; left: 50px; margin: 0px auto; top:77px;}
+body.ls_left #content{margin-bottom:80px;}
+body.ls_left .head-toggle{top: 12px; border-radius: 0 15px 15px 0; height: 36px; left: 280px; position: fixed; width: 47px; border-left:1px solid transparent;} 	
+body.ls_left .head-toggle a{margin-left: 14px; margin-top: 4px;} 
+body.ls_left .head-toggle .bc-box{left: 20px; margin-top: -22px;} 	
+body.ls_left.congmap .head-toggle{top:110px;}
+body.ls_left #footer-area{padding-left: 105px;}
+body.ls_left #foot_copyrt{display:none;}
+body.ls_left  a.content_hideshow{z-index:6;}
+
+/*-- Top Layout-Structure 
+------------------------------------*/
+body.ls_top #head_block,body.ls_top #bottom-head{display:none;}
+body.ls_top #header-area{background: url('../images/header-bg.png');border-bottom:2px solid transparent;position:relative;}
+body.ls_top #content{margin:30px auto 80px;}
+body.ls_top #header{width:900px;margin:0 auto;position:relative;}
+body.ls_top #header .social_wrap{float:right;}
+body.ls_top #logo{width:240px;}
+body.ls_top #header .social_icons{padding-top: 8px;position:absolute;z-index:2;right:0;}
+body.ls_top #top-head {padding-top: 10px; position: relative; z-index: 1;}
+body.ls_top #skenav .ske-menu .menu li,body.ls_top div.menu li{background-image:none;margin:0;float: left;}
+body.ls_top #skenav a{padding: 0 11px;}
+body.ls_top #skenav ul ul li,body.ls_top #skenav ul ul ul li{float:none;}
+body.ls_top .skebg_nav .skebg_thumbnails{width:200px;top:auto;bottom:-500px;}
+body.ls_top .head-toggle{bottom: -45px;border-radius: 0 0 15px 15px;height: 45px; left: 10px; position: absolute;width: 36px; } 	
+body.ls_top .head-toggle a{ margin-left: 5px; margin-top: 13px;} 
+body.ls_top .head-toggle .bc-box{left: 10px; margin-top: -22px;} 
+body.ls_top.congmap .head-toggle{left:50px;}

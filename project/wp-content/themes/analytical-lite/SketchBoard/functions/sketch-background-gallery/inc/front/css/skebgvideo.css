@@ -1,0 +1,34 @@
+#skebg-video-wrap{overflow:hidden;position:fixed;height:100%;width:100%;top:0;left:0;z-index: -1;visibility:hidden;}
+#skebg-video-vid,#skebg-video-image{position:absolute;}
+#skebg-video-control-container{  background: url("../../images/overlay_bg.png") repeat scroll 0 0 transparent; position: fixed; visibility: hidden; z-index: 4; top: 50%; right: 0; margin-top: -25px; display: block; height: 45px; width: 40px; overflow: hidden;} 	
+#skebg-video-control{position: relative; width: 100%;} 	
+#skebg-video-control-middle{margin: 0 56px 0 24px;display:none;}
+#skebg-video-control-bar{width:96%;height:16px;position:relative;cursor:pointer;}
+#skebg-video-control-progress{position:absolute;top:7px;height:3px;width:0%;background:#fff;}
+#skebg-video-control-track{position:absolute;top:8px;height:1px;width:100%;background:#fff;}
+#skebg-video-control-bound-left{left:0;}
+#skebg-video-control-bound-right{right:-1px}
+#skebg-video-control-track .ui-slider-handle {opacity:0;filter: alpha(opacity = 00);}
+#skebg-video-control-playhead{left:30%;}
+#skebg-video-control-play{position:absolute;top:0;left:0;height:45px;width:40px;background:url("../../images/play_pause.png") no-repeat scroll center bottom transparent;}
+#skebg-video-control-play:hover{opacity:0.8;filter: alpha(opacity = 80);}
+#skebg-video-control-timer{display:none;position:absolute;top:-1px;right:40px;color:#fff;font-size:12px;font-family:arial;}
+#skebg-video-control-playhead,#skebg-video-control-bound-left,#skebg-video-control-bound-right{position:absolute;top:0;height:16px;width:1px;background:#fff;}
+#skebg-video-control .ui-slider-handle{border-left:solid 1px #fff; width:16px;height:16px;position:absolute;top:-8px;}
+.transparent{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;}
+.vjs-skebg-play-button{display:none !important;}
+
+#skebg-youtube-wrap{z-index:-1 !important;top: 0;visibility:hidden;}
+#skebg-yt-shield{z-index:-1 !important;display: none;}
+
+#skebg-yt-controls{margin-top: -68px;position: fixed;top: 50%; z-index: 4;right:0;} 
+#skebg-yt-controls a{width:40px;height:45px;opacity:0.8;filter: alpha(opacity = 80);display:block;background:#000;outline:none;}
+#skebg-yt-controls a:hover{opacity:0.95;filter: alpha(opacity = 95);}
+#skebg-yt-controls a.yt-play{background: url("../../images/play_pause.png") no-repeat scroll center 3px #000;}
+#skebg-yt-controls a.yt-pause{background: url("../../images/play_pause.png") no-repeat scroll center bottom #000;}
+#skebg-yt-controls a.yt-mute{background: url("../../images/vol-dwn.png") no-repeat scroll center #000;}
+#skebg-yt-controls a.yt-mute.active{background: url("../../images/vol-up.png") no-repeat scroll center #000;}
+
+
+#skebg-vimeo-player{overflow:hidden;position:fixed;height:100%;width:100%;top:0;left:0;z-index: -1;visibility:hidden;}
+

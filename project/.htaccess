@@ -1,0 +1,17 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+
+
+# BEGIN WordPress
+# Exclude the file upload and WP CRON scripts from authentication
+<FilesMatch "(async-upload\.php|wp-cron\.php|xmlrpc\.php)$">
+    Satisfy Any
+    Order allow,deny
+    Allow from all
+    Deny from none
+</FilesMatch>
+php_value upload_max_filesize 5M
+php_value post_max_size 5M
+php_value max_execution_time 300
+php_value max_input_time 300
+# END WordPress

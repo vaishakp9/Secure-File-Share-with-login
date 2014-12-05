@@ -1,0 +1,1564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Analytical Lite v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-07 10:50:51+0000\n"
+"Last-Translator: admin <gunjan@techinfini.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:10
+#@ analytical
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:14
+#@ analytical
+msgid "Page Not Found."
+msgstr ""
+
+#: 404.php:15
+#@ analytical
+msgid "Apologies, but the page you requested could not be found."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:65
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:67
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:92
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:94
+#@ analytical
+msgid "in Seconds"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:100
+#@ analytical
+msgid "Pages"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:13
+#@ analytical
+msgid "Home"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:70
+#@ analytical
+msgid "Author"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:73
+#@ analytical
+msgid "Tag"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:76
+#@ analytical
+msgid "Search"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:229
+#@ analytical
+msgid "Your contact Form has been submitted. Thank you."
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:233
+#@ analytical
+msgid "Please check if you've filled all the fields with valid information. Thank you."
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:224
+#@ analytical
+msgid "Gallery"
+msgstr ""
+
+#: SketchBoard/functions/sketch-theme-support.php:29
+#@ analytical
+msgid "Untitled"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:181
+#@ analytical
+msgid "To Activate All Features,Please Upgrade Theme.Click Here To Upgrade.</span>"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:190
+#@ analytical
+msgid "SketchThemes Admin Panel"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:198
+#: SketchBoard/includes/options-framework.php:203
+#@ analytical
+msgid "Save Options"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:199
+#@ analytical
+msgid "Restore Defaults"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:229
+#@ analytical
+msgid "Default options restored."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:263
+#@ analytical
+msgid "Options saved."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:307
+#@ analytical
+msgid "Theme Options"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:21
+#@ analytical
+msgid "Theme Options Media"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:102
+#@ analytical
+msgid "Upload"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:120
+#@ analytical
+msgid "View File"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:224
+#@ analytical
+msgid "Previously Uploaded"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:184
+#@ analytical
+msgid "No Repeat"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:185
+#@ analytical
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:186
+#@ analytical
+msgid "Repeat Vertically"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:187
+#@ analytical
+msgid "Repeat All"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:199
+#@ analytical
+msgid "Top Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:200
+#@ analytical
+msgid "Top Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:201
+#@ analytical
+msgid "Top Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:202
+#@ analytical
+msgid "Middle Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:203
+#@ analytical
+msgid "Middle Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:204
+#@ analytical
+msgid "Middle Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:205
+#@ analytical
+msgid "Bottom Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:206
+#@ analytical
+msgid "Bottom Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:207
+#@ analytical
+msgid "Bottom Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:219
+#@ analytical
+msgid "Scroll Normally"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:220
+#@ analytical
+msgid "Fixed in Place"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:288
+#@ analytical
+msgid "Normal"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:289
+#@ analytical
+msgid "Italic"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:290
+#@ analytical
+msgid "Bold"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:291
+#@ analytical
+msgid "Bold Italic"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+#@ analytical
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:16
+#, php-format
+#@ analytical
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:18
+#, php-format
+#@ analytical
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:20
+#@ analytical
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:13
+#@ analytical
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:13
+#@ analytical
+msgid "% Comments "
+msgstr ""
+
+#: index.php:37
+#: page.php:37
+#: template-blog.php:32
+#: template-portfolio.php:32
+#@ analytical
+msgid "Not Found"
+msgstr ""
+
+#: contact-page.php:26
+#: index.php:21
+#: page.php:21
+#: single-portfolio_post.php:44
+#: single.php:70
+#: template-blog.php:27
+#: template-portfolio.php:27
+#@ analytical
+msgid "Edit"
+msgstr ""
+
+#: category.php:13
+#, php-format
+#@ analytical
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:3
+#@ analytical
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:5
+#@ analytical
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:13
+#@ analytical
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:13
+#@ analytical
+msgid " so far:"
+msgstr ""
+
+#: comments.php:27
+#@ analytical
+msgid "Comments are closed."
+msgstr ""
+
+#: contact-page.php:32
+#@ analytical
+msgid "Page Does Not Exist"
+msgstr ""
+
+#: contact-page.php:38
+#@ analytical
+msgid "Please check if you have filled all the fields with valid information. Thank you."
+msgstr ""
+
+#: contact-page.php:42
+#@ analytical
+msgid "Email Successfully Sent!"
+msgstr ""
+
+#: contact-page.php:43
+#@ analytical
+msgid "Thank you "
+msgstr ""
+
+#: contact-page.php:43
+#@ analytical
+msgid "for contacting us! Your email was successfully sent and We will be in touch with you soon."
+msgstr ""
+
+#: contact-page.php:63
+#@ analytical
+msgid "Sending..."
+msgstr ""
+
+#: functions.php:37
+#@ analytical
+msgid "Primary Navigation"
+msgstr ""
+
+#: options.php:42
+#@ analytical
+msgid "Yes"
+msgstr ""
+
+#: options.php:43
+#@ analytical
+msgid "No"
+msgstr ""
+
+#: options.php:50
+#@ analytical
+msgid "General Settings"
+msgstr ""
+
+#: options.php:73
+#: options.php:79
+#@ analytical
+msgid "This creates a Custom logo that previews the image."
+msgstr ""
+
+#: options.php:110
+#@ analytical
+msgid "Change favicon"
+msgstr ""
+
+#: options.php:111
+#@ analytical
+msgid "This creates a Custom favicon that previews the image."
+msgstr ""
+
+#: options.php:102
+#@ analytical
+msgid "Show Custom Pagination"
+msgstr ""
+
+#: options.php:132
+#@ analytical
+msgid "Check to Enable persistent header navigation menu."
+msgstr ""
+
+#: options.php:185
+#@ analytical
+msgid "Contact Page Settings"
+msgstr ""
+
+#: options.php:194
+#@ analytical
+msgid "Email Address for Contact Form"
+msgstr ""
+
+#: options.php:195
+#@ analytical
+msgid "Email Address for Contact Form."
+msgstr ""
+
+#: options.php:201
+#@ analytical
+msgid "Footer"
+msgstr ""
+
+#: options.php:205
+#@ analytical
+msgid "Copyright Text"
+msgstr ""
+
+#: options.php:206
+#@ analytical
+msgid "You can use HTML for links etc.."
+msgstr ""
+
+#: options.php:212
+#@ analytical
+msgid "Google Analytics code:"
+msgstr ""
+
+#: options.php:213
+#@ analytical
+msgid "You can use Google Analytics code here."
+msgstr ""
+
+#: search.php:13
+#, php-format
+#@ analytical
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-blog.php:7
+#: sidebar-footer.php:10
+#: sidebar-footer.php:42
+#@ analytical
+msgid "Archives"
+msgstr ""
+
+#: sidebar-blog.php:13
+#: sidebar-footer.php:25
+#@ analytical
+msgid "Meta"
+msgstr ""
+
+#: tag.php:13
+#, php-format
+#@ analytical
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:20
+#@ analytical
+msgid "DISPLAY SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:28
+#@ analytical
+msgid "Where to show default Sketch BG-Gallery:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:29
+#@ analytical
+msgid "Every Where:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:33
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:184
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:211
+#@ analytical
+msgid "These features comes with Pro Version. To activate please Upgrade Theme."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:34
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:106
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:185
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:134
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:212
+#@ analytical
+msgid "Click Here To Upgrade"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:36
+#@ analytical
+msgid "Front Page:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:37
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Front page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:38
+#@ analytical
+msgid "Blog Page:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:39
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Blog page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:40
+#@ analytical
+msgid "Categories:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:41
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Category Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:42
+#@ analytical
+msgid "Custom Taxonomies:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:43
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Custom Taxonomy Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:44
+#@ analytical
+msgid "Tags:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:45
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Tag Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:46
+#@ analytical
+msgid "Date Archive:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:47
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Archive Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:48
+#@ analytical
+msgid "Author Page:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:49
+#@ analytical
+msgid "Enable/Disable Sketch Gallery for the Author Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:58
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:85
+#@ analytical
+msgid "APPEARANCE SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:65
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:92
+#@ analytical
+msgid "Slide Duration:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:66
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:93
+#@ analytical
+msgid "How many seconds an image must stay."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:67
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:94
+#@ analytical
+msgid "Transition Speed:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:68
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:95
+#@ analytical
+msgid "How many seconds for the transition from one image to another."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:69
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:96
+#@ analytical
+msgid "Show Navigation:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:70
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:97
+#@ analytical
+msgid "Enable/Disable Navigation for the slideshow."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:71
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:98
+#@ analytical
+msgid "Show Play/Pause Key:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:72
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:99
+#@ analytical
+msgid "Enable/Disable Play/Pause button."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:73
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:100
+#@ analytical
+msgid "Show Thumbnails:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:74
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:101
+#@ analytical
+msgid "Enable/Disable Thumbnails."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:75
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:102
+#@ analytical
+msgid "Thumbnails Display:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:81
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:109
+#@ analytical
+msgid "Random Images:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:82
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:110
+#@ analytical
+msgid "Set to 'ON' if you want to show the images in a Random Order."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:91
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:119
+#@ analytical
+msgid "OVERLAY SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:98
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:126
+#@ analytical
+msgid "Display Overlay:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:98
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:126
+#@ analytical
+msgid "Check it, if you want \"<i>Overlay Effect</i>\"."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:99
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:127
+#@ analytical
+msgid "Check if you want to use the overlay effect and select one of the following overlay effects."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:100
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:128
+#@ analytical
+msgid "Set Overlay Effect:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:105
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:133
+#@ analytical
+msgid "These all overlays comes with Pro Version. To activate please Upgrade Theme."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:131
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:159
+#@ analytical
+msgid "BACKGROUND COLOR SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:138
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:166
+#@ analytical
+msgid "Enable BG-Color:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:138
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:166
+#@ analytical
+msgid "Check it, if you want to use \"BG color instead of gallery images\"."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:139
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:167
+#@ analytical
+msgid "Background Color:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:140
+#@ analytical
+msgid "Check if you want to use  color instead of images and select what color you want to use."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:150
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:178
+#@ analytical
+msgid "BACKGROUND VIDEO SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:157
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:185
+#@ analytical
+msgid "Enable BG-Video:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:157
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:185
+#@ analytical
+msgid "Check it, if you want to use \"BG Video instead of gallery images\"."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:158
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:186
+#@ analytical
+msgid "URL (.mp4 / YouTube/ Vimeo):"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:158
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:186
+#@ analytical
+msgid "Check if you want to use background video instead of images & bg-color and enter video path/url that you want to show."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:159
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:187
+#@ analytical
+msgid "Repeat Video:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:160
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:188
+#@ analytical
+msgid "Set No/Off Video looping."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:171
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:198
+#@ analytical
+msgid "BACKGROUNDS SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:178
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:205
+#@ analytical
+msgid "BG-Image 1 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:179
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:206
+#@ analytical
+msgid "BG-Image 2 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:180
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:207
+#@ analytical
+msgid "BG-Image 3 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:187
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:214
+#@ analytical
+msgid "BG-Image 4 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:188
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:215
+#@ analytical
+msgid "BG-Image 5 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:189
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:216
+#@ analytical
+msgid "BG-Image 6 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:190
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:217
+#@ analytical
+msgid "BG-Image 7 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:191
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:218
+#@ analytical
+msgid "BG-Image 8 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:192
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:219
+#@ analytical
+msgid "BG-Image 9 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_main.php:193
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:220
+#@ analytical
+msgid "BG-Image 10 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:69
+#@ analytical
+msgid "Check it, if you want to <b>Disable</b> Sketch BG-Gallery for this post/page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:74
+#@ analytical
+msgid "Add <b>Sketch BG-Gallery</b> to this post/page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/skebg_mata.php:168
+#@ analytical
+msgid "Check if you want to use background color instead of images and select what color you want to use."
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:101
+#@ analytical
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:102
+#@ analytical
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:8
+#@ analytical
+msgid " Portfolio"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:9
+#@ analytical
+msgid "Portfolio"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:10
+#@ analytical
+msgid "Add Portfolio"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:11
+#@ analytical
+msgid "Add New Portfolio"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:12
+#@ analytical
+msgid "Edit Portfolio"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:13
+#@ analytical
+msgid "New Portfolio"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:14
+#@ analytical
+msgid "All Portfolios"
+msgstr ""
+
+#: SketchBoard/functions/sketch-portfolio-post.php:15
+#@ analytical
+msgid "View Portfolio"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:139
+#@ analytical
+msgid "Analytical Lite Options"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:199
+#@ analytical
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: archive.php:97
+#: author.php:89
+#: category.php:89
+#: home.php:82
+#: tag.php:89
+#: template-blog.php:111
+#@ analytical
+msgid "Posts Not Exist"
+msgstr ""
+
+#: author.php:13
+#, php-format
+#@ analytical
+msgid "Author Archives: %s"
+msgstr ""
+
+#: comments.php:35
+#@ analytical
+msgid "Leave your Comment"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+#@ analytical
+msgid "Leave your Comment to %s"
+msgstr ""
+
+#: comments.php:37
+#@ analytical
+msgid "Cancel your Comment"
+msgstr ""
+
+#: contact-page.php:25
+#: index.php:20
+#: page.php:20
+#: single-portfolio_post.php:43
+#: template-blog.php:26
+#: template-portfolio.php:26
+#@ analytical
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: contact-page.php:25
+#: contact-page.php:26
+#: index.php:20
+#: index.php:21
+#: page.php:20
+#: page.php:21
+#: single-portfolio_post.php:43
+#: single-portfolio_post.php:44
+#: single.php:70
+#: template-blog.php:26
+#: template-blog.php:27
+#: template-portfolio.php:26
+#: template-portfolio.php:27
+#@ analytical
+msgid "</p>"
+msgstr ""
+
+#: contact-page.php:25
+#: index.php:20
+#: page.php:20
+#: single-portfolio_post.php:43
+#: template-blog.php:26
+#: template-portfolio.php:26
+#@ analytical
+msgid "number"
+msgstr ""
+
+#: contact-page.php:26
+#: index.php:21
+#: page.php:21
+#: single-portfolio_post.php:44
+#: template-blog.php:27
+#: template-portfolio.php:27
+#@ analytical
+msgid "<p>"
+msgstr ""
+
+#: contact-page.php:48
+#@ analytical
+msgid "Please fill in the form below:"
+msgstr ""
+
+#: contact-page.php:49
+#@ analytical
+msgid "Your name (required):"
+msgstr ""
+
+#: contact-page.php:50
+#@ analytical
+msgid "Your email (required):"
+msgstr ""
+
+#: contact-page.php:51
+#@ analytical
+msgid "Subject (required):"
+msgstr ""
+
+#: contact-page.php:52
+#@ analytical
+msgid "Message (required):"
+msgstr ""
+
+#: header.php:83
+#@ analytical
+msgid "Contact Us"
+msgstr ""
+
+#: options.php:30
+#@ analytical
+msgid "Top Header"
+msgstr ""
+
+#: options.php:31
+#@ analytical
+msgid "Left Header"
+msgstr ""
+
+#: options.php:35
+#@ analytical
+msgid "Map View"
+msgstr ""
+
+#: options.php:36
+#@ analytical
+msgid "Satellite View"
+msgstr ""
+
+#: options.php:37
+#@ analytical
+msgid "Hybrid View"
+msgstr ""
+
+#: options.php:38
+#@ analytical
+msgid "Terrain View"
+msgstr ""
+
+#: options.php:53
+#@ analytical
+msgid "Layout Structure"
+msgstr ""
+
+#: options.php:54
+#@ analytical
+msgid "Default Structure option \"Top\"."
+msgstr ""
+
+#: options.php:60
+#@ analytical
+msgid "Base Color"
+msgstr ""
+
+#: options.php:61
+#@ analytical
+msgid "Change the base color."
+msgstr ""
+
+#: options.php:66
+#@ analytical
+msgid "Base Color 2"
+msgstr ""
+
+#: options.php:67
+#@ analytical
+msgid "Change the base color 2."
+msgstr ""
+
+#: options.php:72
+#@ analytical
+msgid "Change Logo (full path to logo image \" 240px into 78px \")"
+msgstr ""
+
+#: options.php:78
+#@ analytical
+msgid "Change Persistent header logo image (\" 120px into 39px \")"
+msgstr ""
+
+#: options.php:84
+#@ analytical
+msgid "Sidebar Contact Us Content ( for \"Left Header\" layout structure )"
+msgstr ""
+
+#: options.php:85
+#@ analytical
+msgid "Enter Contact Us Content."
+msgstr ""
+
+#: options.php:90
+#@ analytical
+msgid "Blog page show at most"
+msgstr ""
+
+#: options.php:91
+#@ analytical
+msgid "posts (default:10)."
+msgstr ""
+
+#: options.php:96
+#@ analytical
+msgid "Portfolio page show at most"
+msgstr ""
+
+#: options.php:97
+#@ analytical
+msgid "portfolios (default:8)."
+msgstr ""
+
+#: options.php:103
+#@ analytical
+msgid "Show custom pagination on pages."
+msgstr ""
+
+#: options.php:117
+#@ analytical
+msgid "Navigation Settings"
+msgstr ""
+
+#: options.php:120
+#@ analytical
+msgid "Navigation Even-item BG-Color"
+msgstr ""
+
+#: options.php:121
+#@ analytical
+msgid "Change Even-item BG-Color."
+msgstr ""
+
+#: options.php:126
+#@ analytical
+msgid "Navigation Odd-item BG-Color"
+msgstr ""
+
+#: options.php:127
+#@ analytical
+msgid "Change Odd-item BG-Color."
+msgstr ""
+
+#: options.php:133
+#@ analytical
+msgid "Enable persistent header navigation menu. <b>(<i>works with only \"Top Header\" Layout Structure.</i>)</b>"
+msgstr ""
+
+#: options.php:138
+#@ analytical
+msgid "Social links"
+msgstr ""
+
+#: options.php:141
+#@ analytical
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:142
+#@ analytical
+msgid "Enter Facebook Link."
+msgstr ""
+
+#: options.php:147
+#@ analytical
+msgid "Twitter link"
+msgstr ""
+
+#: options.php:148
+#@ analytical
+msgid "Enter Twitter link."
+msgstr ""
+
+#: options.php:153
+#@ analytical
+msgid "Google plus Id"
+msgstr ""
+
+#: options.php:154
+#@ analytical
+msgid "Enter Google plus Id."
+msgstr ""
+
+#: options.php:159
+#@ analytical
+msgid "Youtube Link"
+msgstr ""
+
+#: options.php:160
+#@ analytical
+msgid "Enter Youtube Link."
+msgstr ""
+
+#: options.php:165
+#@ analytical
+msgid "Pinterest Link"
+msgstr ""
+
+#: options.php:166
+#@ analytical
+msgid "Enter Pinterest Link."
+msgstr ""
+
+#: options.php:171
+#@ analytical
+msgid "Dribble Link"
+msgstr ""
+
+#: options.php:172
+#@ analytical
+msgid "Enter Dribble Link."
+msgstr ""
+
+#: options.php:177
+#@ analytical
+msgid "Wordpress Link"
+msgstr ""
+
+#: options.php:178
+#@ analytical
+msgid "Enter Wordpress Link."
+msgstr ""
+
+#: options.php:188
+#@ analytical
+msgid "Contact HTML Text"
+msgstr ""
+
+#: options.php:189
+#@ analytical
+msgid "Contact HTML Text."
+msgstr ""
+
+#: options.php:219
+#@ analytical
+msgid "Footer Sidebar Names"
+msgstr ""
+
+#: options.php:223
+#@ analytical
+msgid "First Sidebar Title:"
+msgstr ""
+
+#: options.php:224
+#: options.php:231
+#: options.php:238
+#@ analytical
+msgid "Leave it blank, if you want to disable it."
+msgstr ""
+
+#: options.php:230
+#@ analytical
+msgid "Second Sidebar Title:"
+msgstr ""
+
+#: options.php:237
+#@ analytical
+msgid "Third Sidebar Title:"
+msgstr ""
+
+#: options.php:244
+#@ analytical
+msgid "Front Page Gallery Captions"
+msgstr ""
+
+#: options.php:248
+#: options.php:422
+#@ analytical
+msgid "Image 1 Title:"
+msgstr ""
+
+#: options.php:249
+#: options.php:423
+#@ analytical
+msgid "Enter Image 1 Title."
+msgstr ""
+
+#: options.php:254
+#: options.php:428
+#@ analytical
+msgid "Image 1 Content:"
+msgstr ""
+
+#: options.php:255
+#: options.php:429
+#@ analytical
+msgid "Enter Image 1 Content."
+msgstr ""
+
+#: options.php:261
+#: options.php:435
+#@ analytical
+msgid "Image 2 Title:"
+msgstr ""
+
+#: options.php:262
+#: options.php:436
+#@ analytical
+msgid "Enter Image 2 Title."
+msgstr ""
+
+#: options.php:267
+#: options.php:441
+#@ analytical
+msgid "Image 2 Content:"
+msgstr ""
+
+#: options.php:268
+#: options.php:442
+#@ analytical
+msgid "Enter Image 2 Content."
+msgstr ""
+
+#: options.php:274
+#: options.php:448
+#@ analytical
+msgid "Image 3 Title:"
+msgstr ""
+
+#: options.php:275
+#: options.php:449
+#@ analytical
+msgid "Enter Image 3 Title."
+msgstr ""
+
+#: options.php:280
+#: options.php:454
+#@ analytical
+msgid "Image 3 Content:"
+msgstr ""
+
+#: options.php:281
+#: options.php:455
+#@ analytical
+msgid "Enter Image 3 Content."
+msgstr ""
+
+#: options.php:287
+#: options.php:461
+#@ analytical
+msgid "Image 4 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:288
+#: options.php:462
+#@ analytical
+msgid "Enter Image 4 Title."
+msgstr ""
+
+#: options.php:294
+#: options.php:468
+#@ analytical
+msgid "Image 4 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:295
+#: options.php:469
+#@ analytical
+msgid "Enter Image 4 Content."
+msgstr ""
+
+#: options.php:302
+#: options.php:476
+#@ analytical
+msgid "Image 5 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:303
+#: options.php:477
+#@ analytical
+msgid "Enter Image 5 Title."
+msgstr ""
+
+#: options.php:309
+#: options.php:483
+#@ analytical
+msgid "Image 5 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:310
+#: options.php:484
+#@ analytical
+msgid "Enter Image 5 Content."
+msgstr ""
+
+#: options.php:317
+#: options.php:491
+#@ analytical
+msgid "Image 6 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:318
+#: options.php:492
+#@ analytical
+msgid "Enter Image 6 Title."
+msgstr ""
+
+#: options.php:324
+#: options.php:498
+#@ analytical
+msgid "Image 6 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:325
+#: options.php:499
+#@ analytical
+msgid "Enter Image 6 Content."
+msgstr ""
+
+#: options.php:332
+#: options.php:506
+#@ analytical
+msgid "Image 7 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:333
+#: options.php:507
+#@ analytical
+msgid "Enter Image 7 Title."
+msgstr ""
+
+#: options.php:339
+#: options.php:513
+#@ analytical
+msgid "Image 7 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:340
+#: options.php:514
+#@ analytical
+msgid "Enter Image 7 Content."
+msgstr ""
+
+#: options.php:347
+#: options.php:521
+#@ analytical
+msgid "Image 8 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:348
+#: options.php:522
+#@ analytical
+msgid "Enter Image 8 Title."
+msgstr ""
+
+#: options.php:354
+#: options.php:528
+#@ analytical
+msgid "Image 8 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:355
+#: options.php:529
+#@ analytical
+msgid "Enter Image 8 Content."
+msgstr ""
+
+#: options.php:362
+#: options.php:536
+#@ analytical
+msgid "Image 9 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:363
+#: options.php:537
+#@ analytical
+msgid "Enter Image 9 Title."
+msgstr ""
+
+#: options.php:369
+#: options.php:543
+#@ analytical
+msgid "Image 9 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:370
+#: options.php:544
+#@ analytical
+msgid "Enter Image 9 Content."
+msgstr ""
+
+#: options.php:377
+#: options.php:551
+#@ analytical
+msgid "Image 10 Title:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:378
+#: options.php:552
+#@ analytical
+msgid "Enter Image 10 Title."
+msgstr ""
+
+#: options.php:384
+#: options.php:558
+#@ analytical
+msgid "Image 10 Content:&nbsp;&nbsp;&nbsp;[ Enabled in PRO Version ]"
+msgstr ""
+
+#: options.php:385
+#: options.php:559
+#@ analytical
+msgid "Enter Image 10 Content."
+msgstr ""
+
+#: options.php:392
+#@ analytical
+msgid "Front Page Video Caption"
+msgstr ""
+
+#: options.php:396
+#@ analytical
+msgid "Video Title:"
+msgstr ""
+
+#: options.php:397
+#@ analytical
+msgid "Enter Video Title."
+msgstr ""
+
+#: options.php:402
+#@ analytical
+msgid "Video Description:"
+msgstr ""
+
+#: options.php:403
+#@ analytical
+msgid "Enter Video Description."
+msgstr ""
+
+#: options.php:408
+#@ analytical
+msgid "Google-map iframe code"
+msgstr ""
+
+#: options.php:409
+#@ analytical
+msgid "Enter Google-map iframe code"
+msgstr ""
+
+#: options.php:418
+#@ analytical
+msgid "Gallery Page Image Captions"
+msgstr ""
+
+#: search.php:89
+#@ analytical
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: single-portfolio_post.php:54
+#@ analytical
+msgid "Page Not Found"
+msgstr ""
+
+#: single.php:70
+#@ analytical
+msgid "<br><p>"
+msgstr ""
+
+#: single.php:86
+#@ analytical
+msgid "Post Not Exist"
+msgstr ""
+
+#: template-portfolio.php:87
+#@ analytical
+msgid "Portfolio Not Exist"
+msgstr ""
+
